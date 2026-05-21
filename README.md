@@ -9,21 +9,19 @@ The objective of this project is to analyze customer survey data to optimize the
 
 ---
 
-## Key Performance Indicators (KPIs) & Business Questions
+## Questions (KPIs)
 
-### Existing KPIs Analysed:
-1. **Total Sample Size:** 51 respondents.
-2. **Average Respondent Age:** ~30.5 years old.
-3. **Top Preferred Chocolate Type:** Dark Chocolate (26 out of 51 preferences).
-4. **Overall Satisfaction Rating:** 2.73 out of 4.
-5. **Total Grocery Spend:** 10,810 units.
-6. **Total Chocolate Bars Purchased:** 181 bars.
-
-### Additional KPIs Added for Launch Strategy:
-7. **Dark Chocolate Market Share:** 51% of total survey preference.
-8. **Gender Preference Split (Dark Chocolate):** 61.5% of male respondents vs. 38.5% of female respondents prefer Dark.
-9. **Bulk Purchase Likelihood Rate:** Percentage of consumers highly likely to purchase in bulk (Rating 3 or 4).
-10. **Choco-Bar Consumption Velocity:** Average number of chocolate bars purchased per customer (~3.5 bars).
+- On average, how many chocolate bars does a single customer buy?
+- Which age group are most satisfied ?
+- which age group of customers purchasing groceries in bulk ?
+- Do customers who spend more money on general groceries also buy more chocolate bars?
+- Who buys more chocolate bars on average—men or women?
+- Which age group of people love to eat which types of chocolates ?
+- Type wise and gender wise distribution ?
+- Do customers who are highly satisfied also prefer to buy their chocolates in bulk?
+- Which flavor of chocolate is the absolute favorite across the entire survey?
+- What is the average age of the target audience who took this survey?
+- Overall, what percentage of customers prefer buying in large packs (bulk) versus single bars?
 
 ---
 
