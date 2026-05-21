@@ -27,10 +27,9 @@ The objective of this project is to analyze customer survey data to optimize the
 
 ---
 
-## Dashboard Preview
-Below is the screenshot of the Excel interactive dashboard built for this launch strategy:
+## Dashboard
 
-![Choconutties Launch Analysis Dashboard](Dashboard_Screenshot.png) 
+<img width="1600" height="1396" alt="Chocolate Analysis Dashboard" src="https://github.com/user-attachments/assets/484c537b-a212-41cd-ab69-b3d82a5e8ab4" />
 
 ---
 
